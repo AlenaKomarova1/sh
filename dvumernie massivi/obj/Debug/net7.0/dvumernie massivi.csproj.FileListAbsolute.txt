@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.AssemblyInfo.cs
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\dvumernie massivi\bin\Debug\net7.0\dvumernie massivi.exe
+C:\Users\Professional\Desktop\dvumernie massivi\bin\Debug\net7.0\dvumernie massivi.deps.json
+C:\Users\Professional\Desktop\dvumernie massivi\bin\Debug\net7.0\dvumernie massivi.runtimeconfig.json
+C:\Users\Professional\Desktop\dvumernie massivi\bin\Debug\net7.0\dvumernie massivi.dll
+C:\Users\Professional\Desktop\dvumernie massivi\bin\Debug\net7.0\dvumernie massivi.pdb
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.dll
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\refint\dvumernie massivi.dll
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.pdb
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\dvumernie massivi.genruntimeconfig.cache
+C:\Users\Professional\Desktop\dvumernie massivi\obj\Debug\net7.0\ref\dvumernie massivi.dll
